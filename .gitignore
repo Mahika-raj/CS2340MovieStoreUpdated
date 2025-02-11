@@ -1,0 +1,4 @@
+*.pyc
+*.pyc
+moviesstore/moviesstore/__pycache__/__init__.cpython-313.pyc
+moviesstore/moviesstore/__pycache__/settings.cpython-313.pyc
